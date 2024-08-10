@@ -15,6 +15,9 @@ This project provides a simple Python script to fetch data from a Google Sheet u
 1) git clone https://github.com/mudassirzeya/fetch_data_from_google_sheet.git
 2) myenv\Scripts\activate to get into virtual environment
 
+# Note
+1) I have not provided the credentials.json file. You can obtain it from Google Cloud Console by enabling the Google Drive API and Google Sheets API, and then creating the credentials.
+
 # Usage
 1) Authenticate Google Account
    Run the following function to authenticate your Google account and generate a token for accessing Google Sheets:
