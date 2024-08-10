@@ -17,7 +17,7 @@ This project provides a simple Python script to fetch data from a Google Sheet u
 3) pip install gspread
 
 # Note
-1) I have not provided the credentials.json file. You can obtain it from Google Cloud Console by enabling the Google Drive API and Google Sheets API, and then creating the credentials.
+   I have not provided the credentials.json file. You can obtain it from Google Cloud Console by enabling the Google Drive API and Google Sheets API, and then creating the credentials.
 
 # Usage
 1) Authenticate Google Account
