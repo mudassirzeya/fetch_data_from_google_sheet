@@ -13,7 +13,8 @@ This project provides a simple Python script to fetch data from a Google Sheet u
 
 # Installation
 1) git clone https://github.com/mudassirzeya/fetch_data_from_google_sheet.git
-2) myenv\Scripts\activate to get into virtual environment
+2) pip install django
+3) pip install gspread
 
 # Note
 1) I have not provided the credentials.json file. You can obtain it from Google Cloud Console by enabling the Google Drive API and Google Sheets API, and then creating the credentials.
