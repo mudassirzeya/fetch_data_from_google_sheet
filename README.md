@@ -1,4 +1,4 @@
-﻿# Google Sheets Data Fetcher using gspread
+﻿# Google Sheets Data Fetcher using gspread in Python
 This project provides a simple Python script to fetch data from a Google Sheet using the gspread library and Google OAuth 2.0 for authentication.
 
 # Features
